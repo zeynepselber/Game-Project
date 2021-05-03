@@ -1,5 +1,6 @@
 
 # Game Project
+Requirements
 1-) Simulate an environment where players can register to the system, update their -information, and delete their records.
 Verify the accuracy of customer information using e-government systems.
 (In e-government systems, verification is done with TcNo, Name, Surname, Year of Birth. You just need to simulate the service to do this.)
