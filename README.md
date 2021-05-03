@@ -7,7 +7,7 @@ Verify the accuracy of customer information using e-government systems.
 - Simulate the sales environment where games can be sold.
 (Sales made must be associated with the player.)
 - Simulate the possibilities of entering a new campaign into the system, deleting and updating the campaign.
- -Simulate campaign integration in sales.
+- Simulate campaign integration in sales.
 
 ## Built With
 -   [Java](https://www.oracle.com/java/technologies/)  - The programing language used
